@@ -25,4 +25,4 @@ const totals= bills.map((bill, i) => bill + tips[i]);
 // In kết quả ra console
 console.log('Bills:', bills);
 console.log('Tips:', tips);
-console.log('Total:', total);
+console.log('Total:', totals);
